@@ -87,17 +87,6 @@
       "ext": "./XBPQ/YYDS影视.json"
     },
   {
-      "key": "csp_七新",
-      "name": "┃七新┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
-      "ext": "./XBPQ/七新影视.json"
-    },
-  {
       "key": "49zy",
       "name": "🦁┃四九┃资源",
       "type": 1,
